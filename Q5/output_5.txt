@@ -1,0 +1,32 @@
+CSV file initialized with sample data.
+CSV file initialized with sample data.
+CSV file initialized with sample data.
+Displaying CSV Data with Row Index:
+0 | Date collected,Species,Sex,Weight
+1 | 1/8,PF,M,7
+2 | 2/18,OT,M,24
+3 | 2/19,OT,F,23
+4 | 3/11,NA,M,232
+5 | 3/11,OT,F,22
+6 | 3/11,OT,M,26
+7 | 3/11,PF,M,8
+8 | 4/8,NA,F,8
+9 | 5/6,NA,F,45
+10 | 5/18,NA,F,182
+11 | 6/9,OT,F,29
+New row added: , , , 
+Displaying CSV Data with Row Index:
+0 | Date collected,Species,Sex,Weight
+1 | 1/8,PF,M,7
+2 | 2/18,OT,M,24
+3 | 2/19,OT,F,23
+4 | 3/11,NA,M,232
+5 | 3/11,OT,F,22
+6 | 3/11,OT,M,26
+7 | 3/11,PF,M,8
+8 | 4/8,NA,F,8
+9 | 5/6,NA,F,45
+10 | 5/18,NA,F,182
+11 | 6/9,OT,F,29
+12 | ,,,
+Deleted row at index 

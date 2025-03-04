@@ -1,0 +1,4 @@
+Array: [1 2 3 4 5]
+Sum of array: 15
+Array: [ 2  3  4  5 10]
+Sum of array: 24
